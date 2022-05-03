@@ -1,0 +1,15 @@
+body{
+    background-image: url('Background.jpg');
+}
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0;
+    padding-bottom: 15px;
+}
+.note
+{
+    font-size: 15px;
+    color: black;
+}
